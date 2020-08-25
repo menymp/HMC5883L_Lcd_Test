@@ -27,3 +27,5 @@ SDA      ---------- RB0
 
 SCL      ---------- RB1
 
+Demo video:
+https://youtu.be/XxZJP_X6h0U
